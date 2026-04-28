@@ -10,7 +10,7 @@ public class TrafficSimulator {
 
     private static final int MIN_VEHICLES = 0;
     private static final int MAX_VEHICLES = 50;
-    private static final double EMERGENCY_CHANCE = 0.07;
+    private static final double EMERGENCY_CHANCE = 0.8;
 
     private static final String[] VEHICLE_TYPES = {
         "Car", "Car", "Car", "Bus", "Bike", "Truck"
